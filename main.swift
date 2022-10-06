@@ -12,3 +12,5 @@ print("Hello, World!")
 print("Je' Mara Smith")
 
 print("Denise Williams")
+
+print("John Wright")
